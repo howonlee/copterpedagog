@@ -1,0 +1,20 @@
+{
+	"name": "copterpedagog",
+	"version": "0.0.1",
+	"description": "Train your AR Parrot drone to move and share the movements",
+	"bin": "copter.js",
+	"dependencies": {
+		"pouchdb": "~0.0.5",
+		"ar-drone": "~0.0.5"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/howonlee/copterpedagog.git"
+	},
+	"keywords": [
+		"drone",
+		"ar-drone",
+		"pouchdb"
+	],
+	"license": "MIT"
+}
